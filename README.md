@@ -17,7 +17,7 @@ MÓDULO: Sistemas de aprendizaje automático
 
 
 
-UNIDAD DE PROGRAMACIÓN: <a href=" https://www.canva.com/design/DAGoc7ZX1Qk/3JK7QOZnYnP0b_Q3gN4Mug/edit?utm_content=DAGoc7ZX1Qk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">UP Introducción a los clasificadores</a>
+UNIDAD DE PROGRAMACIÓN: <a href="https://www.canva.com/design/DAGoc7ZX1Qk/3JK7QOZnYnP0b_Q3gN4Mug/edit?utm_content=DAGoc7ZX1Qk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">UP Introducción a los clasificadores</a>
 
 
 
@@ -42,7 +42,7 @@ Otros recursos:
 
 Rúbrica: Preprocesamiento de Datos
 <table>
-  <th>Criterio	Excelente (10-9)	Bueno (8-7)	Aceptable (6-5)	Insuficiente (<5)
+  <th><td>Criterio</td><td>	Excelente (10-9)</td><td>	Bueno (8-7)</td><td>	Aceptable (6-5)</td><td>	Insuficiente (<5) </td>
 </th>
 <tr><td>Limpieza de datos</td><td>	Corrige todos los valores nulos y atípicos</td><td>	Corrige la mayoría de los valores nulos y atípicos</td><td>	Corrige algunos valores nulos y atípicos</td><td>	No corrige valores nulos ni atípicos</td></tr>
 <tr><td>Transformación de datos	</td><td>Aplica correctamente normalización y codificación	</td><td>Aplica normalización y codificación con errores menores	</td><td>Aplica normalización pero sin codificación adecuada</td><td>	No aplica transformación de datos</td></tr>
