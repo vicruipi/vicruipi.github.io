@@ -42,8 +42,10 @@ Otros recursos:
 
 Rúbrica: Preprocesamiento de Datos
 <table>
-  <th><td>Criterio</td><td>	Excelente (10-9)</td><td>	Bueno (8-7)</td><td>	Aceptable (6-5)</td><td>	Insuficiente (<5) </td>
-</th>
+<tr>
+  <th>Criterio</th><th>	Excelente (10-9)</th><th>	Bueno (8-7)</th><th>	Aceptable (6-5)</th><th>	Insuficiente (<5) </th>
+  </tr>
+
 <tr><td>Limpieza de datos</td><td>	Corrige todos los valores nulos y atípicos</td><td>	Corrige la mayoría de los valores nulos y atípicos</td><td>	Corrige algunos valores nulos y atípicos</td><td>	No corrige valores nulos ni atípicos</td></tr>
 <tr><td>Transformación de datos	</td><td>Aplica correctamente normalización y codificación	</td><td>Aplica normalización y codificación con errores menores	</td><td>Aplica normalización pero sin codificación adecuada</td><td>	No aplica transformación de datos</td></tr>
 <tr><td>Documentación del proceso	</td><td>Explica detalladamente cada paso con justificación técnica</td><td>	Explica los pasos con justificación parcial</td><td>	Explica los pasos sin justificación técnica</td><td>	No documenta el proceso</td></tr>
